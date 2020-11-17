@@ -13,6 +13,7 @@ public class luoguP1434 {
                 max = Math.max(dfs(tx, ty, height, mem, dx, dy) + 1, max);
             }
         }
+        mem[x][y] = max;
         return max;
     }
 
