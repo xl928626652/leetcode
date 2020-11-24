@@ -5,6 +5,7 @@ package com.xl;
  * @Author : Xulian
  * @Date : 2020/10/16 11:26
  */
+
 public class test {
     public static void main(String[] args) {
 //        int goalTotal = 2*85 + 90 + 3*75+ 2*95+3*90+2*85+2*90+3*80+2*90+2*85+2*80+2*85+2*75+85+2*90;
@@ -24,6 +25,5 @@ public class test {
         //86.96
         //21.74*/
 
-        
     }
 }
