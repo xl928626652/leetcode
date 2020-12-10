@@ -28,6 +28,10 @@ public class msjd0102 {
 
     public static void main(String[] args) {
         System.out.println(new msjd0102().CheckPermutation("abcdeefabvv", "bvbcadefeva"));
-
+        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
+        for (int i = 0; i < 10; i++) {
+            priorityQueue.add(10 - i);
+        }
+        System.out.println(priorityQueue.toString());
     }
 }
