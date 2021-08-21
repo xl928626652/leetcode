@@ -12,6 +12,7 @@ import java.util.LinkedList;
 
 public class Test {
     int a;
+    int b = 0;
     //    public void f(int i ,String p){
 //
 //    }
