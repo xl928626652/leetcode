@@ -1,6 +1,5 @@
 package com.xl.alibaba;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
